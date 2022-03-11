@@ -1,0 +1,9 @@
+address: "0.0.0.0"
+port: "80"
+dir: "/data"
+realm: "dave"
+
+users:
+  ndebruin:
+    password: "$2a$10$NGetkM2oa5WPhB1BSgrpPOf9OtZ5ksXfZD/1.QgsapitpAWKw/D6K"
+    subdir: "/ndebruin"
